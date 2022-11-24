@@ -1,49 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="17403" started-at="2022-06-28T06:29:35Z" finished-at="2022-06-28T06:29:52Z">
+  <suite name="Default suite" duration-ms="4546" started-at="2022-07-31T15:13:10Z" finished-at="2022-07-31T15:13:14Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="17403" started-at="2022-06-28T06:29:35Z" finished-at="2022-06-28T06:29:52Z">
-      <class name="com.tests.RegressionTests">
-        <test-method status="PASS" signature="openBroswer()[pri:0, instance:com.tests.RegressionTests@6a28ffa4]" name="openBroswer" is-config="true" duration-ms="5555" started-at="2022-06-28T06:29:35Z" finished-at="2022-06-28T06:29:40Z">
+    <test name="Default test" duration-ms="4546" started-at="2022-07-31T15:13:10Z" finished-at="2022-07-31T15:13:14Z">
+      <class name="cbt.CoreJava">
+        <test-method status="PASS" signature="m1()[pri:0, instance:cbt.CoreJava@353d0772]" name="m1" duration-ms="4512" started-at="2022-07-31T15:13:10Z" finished-at="2022-07-31T15:13:14Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- openBroswer -->
-        <test-method status="PASS" signature="FirstScreenCase()[pri:0, instance:com.tests.RegressionTests@6a28ffa4]" name="FirstScreenCase" duration-ms="740" started-at="2022-06-28T06:29:40Z" finished-at="2022-06-28T06:29:41Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- FirstScreenCase -->
-        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.tests.RegressionTests@6a28ffa4]" name="closeBrowser" is-config="true" duration-ms="148" started-at="2022-06-28T06:29:41Z" finished-at="2022-06-28T06:29:41Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- closeBrowser -->
-        <test-method status="PASS" signature="openBroswer()[pri:0, instance:com.tests.RegressionTests@6a28ffa4]" name="openBroswer" is-config="true" duration-ms="2887" started-at="2022-06-28T06:29:41Z" finished-at="2022-06-28T06:29:44Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- openBroswer -->
-        <test-method status="PASS" signature="SecondScreenCase()[pri:0, instance:com.tests.RegressionTests@6a28ffa4]" name="SecondScreenCase" duration-ms="1839" started-at="2022-06-28T06:29:44Z" finished-at="2022-06-28T06:29:46Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- SecondScreenCase -->
-        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.tests.RegressionTests@6a28ffa4]" name="closeBrowser" is-config="true" duration-ms="157" started-at="2022-06-28T06:29:46Z" finished-at="2022-06-28T06:29:46Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- closeBrowser -->
-        <test-method status="PASS" signature="openBroswer()[pri:0, instance:com.tests.RegressionTests@6a28ffa4]" name="openBroswer" is-config="true" duration-ms="2915" started-at="2022-06-28T06:29:46Z" finished-at="2022-06-28T06:29:49Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- openBroswer -->
-        <test-method status="PASS" signature="ThirdScreenCase()[pri:0, instance:com.tests.RegressionTests@6a28ffa4]" name="ThirdScreenCase" duration-ms="2788" started-at="2022-06-28T06:29:49Z" finished-at="2022-06-28T06:29:52Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- ThirdScreenCase -->
-        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.tests.RegressionTests@6a28ffa4]" name="closeBrowser" is-config="true" duration-ms="326" started-at="2022-06-28T06:29:52Z" finished-at="2022-06-28T06:29:52Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- closeBrowser -->
-      </class> <!-- com.tests.RegressionTests -->
+        </test-method> <!-- m1 -->
+      </class> <!-- cbt.CoreJava -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

@@ -18,6 +18,7 @@ public class SecondPage {
 
 	public void clickOnSubmitButton() {
      submitLnk.click();
+     
 	}
 
 }

@@ -16,6 +16,7 @@ public class FirstPage {
 
 	public void clickOncontinueLnk() {
 		continueLnk.click();
+		
 
 	}
 
